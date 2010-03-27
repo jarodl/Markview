@@ -23,9 +23,8 @@ a:hover { text-decoration:underline; }
 
 p#file {font-size:150%;}
 
-div#content {margin:2% auto; position:relative; width:920px; }
-div#content > div { float:left; }
-div#content div#markview-output { border: 1px solid #E9E9E9; background:#F8F8F8; padding:5%; overflow-y:auto; }
+div#content {margin: 20px auto; width: 920px; }
+div#content div#markview-output { border: 1px solid #E9E9E9; background:#F8F8F8; padding:10px; overflow-y:auto; }
 
 .markview * {	line-height:1.4em; }
 .markview em { 	background-color:#fffeca;	padding:0 0.08em;}
